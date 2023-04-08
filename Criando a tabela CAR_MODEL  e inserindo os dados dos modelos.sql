@@ -19,4 +19,4 @@ VALUES ('Conversível'),
        ('Picape'),
        ('Minivan'),
        ('Utilitário'),
-       ('Buggy')
+       ('Buggy');
